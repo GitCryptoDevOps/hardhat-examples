@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.9;
 
-import "@nomiclabs/builder/console.sol";
+import "hardhat/console.sol";
 
 contract HelloWorld {
 
